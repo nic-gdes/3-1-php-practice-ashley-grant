@@ -21,10 +21,10 @@
                 Lava Surge Logo">
             </div>
             <div class="grid-item">
-                <img src="" alt="">
+                <img src="./assets/img/ariel.webp" alt="">
             </div>
             <div class="grid-item">
-                <img src="" alt="">
+                <img src="./assets/img/sebastian.jpeg" alt="">
             </div>
         </div>
     </main>

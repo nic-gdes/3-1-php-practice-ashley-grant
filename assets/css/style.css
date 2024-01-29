@@ -7,9 +7,11 @@ footer {
 }
 
 .grid {
-
+    display: grid;
 }
 
 .grid-item {
-    
+    grid-template-columns: ;
+    grid-template-rows: ;
+    grid-gap: 20px;
 }

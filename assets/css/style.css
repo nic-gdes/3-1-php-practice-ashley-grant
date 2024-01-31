@@ -50,3 +50,11 @@ footer {
     padding: 10px;
     color: rgb(133, 133, 142);
 }
+
+.footer-style {
+    display: flex;
+    background-color: rgb(157, 60, 60);
+    font-size: 50px;
+}
+
+
